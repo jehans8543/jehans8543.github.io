@@ -54,13 +54,13 @@ a {
 }
 
 .bg-3 {
-    background-color: ##ffffff; /* white */
+    background-color: ##ffffff; /* White */
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #4ad46f; /* green */
-    color: #fff;
+    background-color: #4ad46f; /* Green */
+    color: #4ad46f;
 }
 
 .container-fluid {
