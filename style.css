@@ -41,7 +41,7 @@ a {
 
 .bg-2 {
     background-color: #4ad46f; /* Green */
-    color: white;
+    color: #ffffff;
 }
 
 .card {
@@ -54,7 +54,7 @@ a {
 }
 
 .bg-3 {
-    background-color: ##dec245; /* Gold */
+    background-color: white; /* Gold */
     color: #dec245;
 }
 
